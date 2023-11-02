@@ -2,6 +2,9 @@
 class FGoblin
 {
 public:
+	FGoblin();
+	~FGoblin();
+
 	//member variable, property
 	int HP;
 	int MP;

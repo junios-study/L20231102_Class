@@ -1,4 +1,5 @@
 #include "Slime.h"
+#include "Player.h"
 
 void FSlime::Attack()
 {
